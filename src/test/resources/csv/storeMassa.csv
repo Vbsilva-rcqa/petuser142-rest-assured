@@ -1,0 +1,7 @@
+cadOrderIdDDT,cadStorePetId,cadOrderQuantity,cadOrderShipDate,cAdOrderStatus,cadOrderComplete
+1,968486301,1,2025-03-21T15:12:55.489+0000,approved,true
+2,968486302,2,2025-03-21T15:12:55.489+0000,repproved,false
+3,968486303,5,2025-03-21T15:12:55.489+0000,approved,true
+4,968486304,3,2025-03-21T15:12:55.489+0000,approved,false
+5,968486305,6,2025-03-21T15:12:55.489+0000,repproved,false
+6,968486306,4,2025-03-21T15:12:55.489+0000,repproved,true
